@@ -188,7 +188,7 @@
 
                  <!-- i want logos to appear on either side of the heading i.e first logo on the left the heading
                    in the middle and the the other logo on the rigt -->
-                <img src="{{ public_path('assets/img/coatofarms.png') }}" width="125" height="120" style="display: block; border: 0px;">
+                <img src="/coatofarms.png" width="125" height="120" style="display: block; border: 0px;">
             </div>
             
             <div class="header-text-center">
@@ -198,7 +198,7 @@
             </div>
             
             <div class="logo-placeholder">
-                <img src="{{ public_path('assets/img/iae.png') }}" width="125" height="120" style="display: block; border: 0px;">
+                <img src="/iae.png" width="125" height="120" style="display: block; border: 0px;">
             </div>
         </div>
     </div>
