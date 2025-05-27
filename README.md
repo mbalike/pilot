@@ -1,3 +1,3 @@
 # pilot
-first git commit
-working on the laravel backend now
+
+edit the file edit-this-file.blade.php, instructions on line 187.
